@@ -5,10 +5,11 @@ Welcome to the **React Frontend Development Roadmap** repository! 🎉 This repo
 ## 📚 Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Intermediate Concepts](#intermediate-concepts)
-3. [Advanced Concepts](#advanced-concepts)
-4. [Projects](#projects)
-5. [Building and Deploying a React App](#building-and-deploying-a-react-app)
+2. [Basic Concepts](#intermediate-concepts)
+3. [Intermediate Concepts](#intermediate-concepts)
+4. [Advanced Concepts](#advanced-concepts)
+5. [Projects](#projects)
+6. [Building and Deploying a React App](#building-and-deploying-a-react-app)
 
 ## Getting Started
 
