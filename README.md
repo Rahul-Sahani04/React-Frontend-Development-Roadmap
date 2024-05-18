@@ -18,7 +18,7 @@ Begin your React journey with the basics. Learn about components, JSX, props, an
 
 
 ## Basic Concepts
-
+> For a comprehensive understanding of the basic concepts, refer to our detailed guide [Here. Basic Concepts](Basics/Readme.md)
 - **JSX ✨:**
 JSX stands for JavaScript XML. It allows you to write HTML in React.
 
@@ -35,6 +35,8 @@ Props (short for **"properties"**) are used to pass data from one component to a
 
 ## Intermediate Concepts
 
+> For a comprehensive understanding of the basic concepts, refer to our detailed guide [Here. Intermediate Concepts](Intermediate/Readme.md)
+
 Delve deeper into React with intermediate topics:
 - **Event Handling**: Understand how to handle events in React.
 - **Lifecycle Methods**: Learn about class component lifecycle methods.
@@ -42,6 +44,8 @@ Delve deeper into React with intermediate topics:
 - **Lists and Keys**: Efficiently render lists of data.
 
 ## Advanced Concepts
+
+> For a comprehensive understanding of the basic concepts, refer to our detailed guide [Here. Advanced Concepts](Advanced/Readme.md).
 
 Enhance your React knowledge with advanced concepts:
 - **Hooks**: Use state and other React features without writing classes.
