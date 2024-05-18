@@ -1,24 +1,3 @@
-# React Frontend Development Roadmap
-
-## Table of Contents
-1. [Introduction to React](#introduction-to-react) 🌟
-2. [Setting Up Your Environment](#setting-up-your-environment) ⚙️
-3. [Basic Concepts](#basic-concepts) 📚
-  - [JSX](#jsx) ✨
-  - [Components](#components) 🧩
-  - [Props](#props) 🎁
-  - [State](#state) 📦
-4. [Intermediate Concepts](#intermediate-concepts) 🚀
-  - [Event Handling](#event-handling) 🎯
-  - [Lifecycle Methods](#lifecycle-methods) 🔄
-  - [Conditional Rendering](#conditional-rendering) 🌦️
-  - [Lists and Keys](#lists-and-keys) 📋
-5. [Advanced Concepts](#advanced-concepts) 🔥
-  - [Hooks](#hooks) ⚓
-  - [Context API](#context-api) 🌐
-  - [React Router](#react-router) 🚦
-  - [State Management (Redux)](#state-management-redux) 🗄️
-6. [Building and Deploying a React App](#building-and-deploying-a-react-app) 🏗️
 
 ## Introduction to React 🌟
 
@@ -125,4 +104,4 @@ export default Clock;
 
 7. [Counter Project](./CounterProject.md) 🔢
 
-### Congrats! Now you can move on to the Intermediate
+### Congrats! Now you can move on to the Intermediate Concepts
