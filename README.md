@@ -5,7 +5,7 @@ Welcome to the **React Frontend Development Roadmap** repository! 🎉 This repo
 ## 📚 Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Basic Concepts](#intermediate-concepts)
+2. [Basic Concepts](#basic-concepts-📚)
 3. [Intermediate Concepts](#intermediate-concepts)
 4. [Advanced Concepts](#advanced-concepts)
 5. [Projects](#projects)
