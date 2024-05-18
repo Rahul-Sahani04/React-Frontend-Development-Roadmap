@@ -4,27 +4,21 @@
 React handles events in a similar way to DOM elements but with some syntactical differences. Here’s a simple example where clicking a button toggles its label between "ON" and "OFF" 🔄.
 
 ```jsx
-class Toggle extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { isToggleOn: true };
-    this.handleClick = this.handleClick.bind(this);
-  }
+const Toggle = () => {
+  const [isToggleOn, setToggle] = useState(true);
 
-  handleClick() {
-    this.setState(state => ({
-      isToggleOn: !state.isToggleOn
-    }));
-  }
+  const handleClick = () => {
+    setToggle(!isToggleOn);
+  };
 
-  render() {
-    return (
-      <button onClick={this.handleClick}>
-        {this.state.isToggleOn ? 'ON' : 'OFF'}
-      </button>
-    );
-  }
-}
+  return (
+    <button onClick={handleClick}>
+      {isToggleOn ? 'ON' : 'OFF'}
+    </button>
+  );
+};
+
+export default Toggle;
 ```
 
 **Explanation**:
