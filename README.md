@@ -5,7 +5,7 @@ Welcome to the **React Frontend Development Roadmap** repository! 🎉 This repo
 ## 📚 Table of Contents
 
 1. [Getting Started](#getting-started)
-2. [Basic Concepts](#basic-concepts-📚)
+2. [Basic Concepts](#basic-concepts)
 3. [Intermediate Concepts](#intermediate-concepts)
 4. [Advanced Concepts](#advanced-concepts)
 5. [Projects](#projects)
@@ -16,7 +16,7 @@ Welcome to the **React Frontend Development Roadmap** repository! 🎉 This repo
 Begin your React journey with the basics. Learn about components, JSX, props, and state. Each concept is explained with simple, easy-to-understand examples.
 
 
-## Basic Concepts 📚
+## Basic Concepts
 
 - **JSX ✨:**
 JSX stands for JavaScript XML. It allows you to write HTML in React.
