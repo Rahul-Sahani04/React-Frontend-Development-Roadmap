@@ -16,6 +16,8 @@ React is a popular JavaScript library for building user interfaces, especially s
    ```
    This will create a new React application and start the development server.
 
+> For detailed steps or notes about React projects or `create-react-app`, you can visit the [Create-React-App](/Create-React-App/Readme.md) documentation.
+
 ## Basic Concepts 📚
 
 ### JSX ✨
