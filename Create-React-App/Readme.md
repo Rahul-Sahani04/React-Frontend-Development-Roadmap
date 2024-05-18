@@ -2,6 +2,8 @@
 
 In this guide, you'll create a simple Todo List application using React. We'll cover every step in detail, ensuring you understand each part of the process, from setting up the project to deploying it.
 
+> For comprehensive and official documentation on Create-React-App, including setup, configuration, and deployment instructions, please visit the [Create-React-App Developer Site](https://create-react-app.dev).
+
 ## Project Overview
 
 ### Features
