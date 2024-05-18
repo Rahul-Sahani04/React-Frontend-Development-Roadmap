@@ -3,6 +3,8 @@
 
 React is a popular JavaScript library for building user interfaces, especially single-page applications where you need a dynamic and interactive user experience. Developed by Facebook, React allows you to build reusable UI components.
 
+You can also visit this site to try out some these examples that are used in these repo. [Link to the Website](https://react-sample-projects.vercel.app/basic)
+
 ## Setting Up Your Environment ⚙️
 
 1. **Node.js and npm**: Make sure Node.js and npm (Node Package Manager) are installed.
@@ -26,7 +28,6 @@ JSX stands for JavaScript XML. It allows you to write HTML in React.
 ```jsx
 const element = <h1>Hello, world!</h1>;
 ```
-<!-- ![JSX Example](https://reactjs.org/static/03ef5e52a7d8c3fffc9fca8f8b2dbece/6b2a2/getting-started.webp) -->
 
 ### Embedding Expressions in JSX
 In the example below, we declare a variable called ```name``` and then use it inside JSX by wrapping it in curly braces:
