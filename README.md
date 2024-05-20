@@ -64,6 +64,8 @@ Put your knowledge to the test with practical projects:
 - **Todo List App**: Build a simple todo list application to practice intermediate React concepts.
 - **Weather App**: Create a weather application using advanced React concepts, including hooks and API integration.
 
+> Need More Project Ideas. Visit [Projects.md](Projects.md)
+
 ## Contribution
 
 We welcome contributions! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
