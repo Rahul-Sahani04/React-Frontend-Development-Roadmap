@@ -7,6 +7,10 @@ These projects focus on getting comfortable with the fundamental building blocks
 
 * **Pomodoro Timer:** Build a timer app that helps users focus in 25-minute intervals with short breaks. This emphasizes working with lifecycle methods and timers within React. [Example](https://pomofocus.io)
 
+* **Form Validation**
+    - **Description:** Create a sign-up form with real-time validation.
+    - **Concepts Tested:** Controlled components, form handling, validation.
+
 ## Intermediate React Concepts Ideas
 
 Once you're comfortable with the basics, these projects will challenge you with more intricate concepts:
@@ -14,6 +18,13 @@ Once you're comfortable with the basics, these projects will challenge you with 
 * **Chat Application:** Create a real-time chat app using web sockets or libraries like Firebase. This introduces concepts of state management across multiple users and real-time communication. Example - WhatsApp
 
 * **E-commerce Product Page:** Build a dynamic product page with features like adding items to a cart and displaying product details. This incorporates working with dynamic data, routing, and potentially integrating with a backend API. Example - Amazon or Flipkart. or a product focused site like [SkullCandy](https://www.skullcandy.in/)
+
+
+* **Quiz App**
+
+    - **Concepts Tested:** State management, timers, dynamic rendering.
+    - **Description:** Create a quiz application with multiple-choice questions and a timer.
+
  
 * **Music Player:** Develop a music player app that allows users to play, pause, skip tracks, and create playlists. This expands on user interaction, managing audio playback, and potentially integrating with third-party APIs. Like Spotify or YT Music
 
