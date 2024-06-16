@@ -15,3 +15,6 @@ For the detailed explanation of JavaScript concepts, syntax, and examples, pleas
 Special thanks to the author `@meakcodes` of the JavaScript Cheat Sheet PDF for creating such a valuable resource. Your efforts are greatly appreciated!
 
 🎉 **Happy coding!** 🎉
+
+---
+Next up: [JSON with JavaScript](./JSON_With_JS.md)
